@@ -1,0 +1,31 @@
+{
+    "name": "vscode-extensions",
+    "displayName": "VSCode Extensions",
+    "description": "Personal collection of Visual Studio Code extensions, packed together for ease of management.",
+    "version": "1.0.0",
+    "publisher": "brettlempereur",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "brettlempereur.theme-base16grayscale",
+        "joelday.docthis",
+        "wmaurer.vscode-jumpy",
+        "humao.rest-client",
+        "lukehoban.Go",
+        "donjayamanne.python",
+        "magicstack.MagicPython",
+        "dbaeumer.vscode-eslint",
+        "xabikos.JavaScriptSnippets",
+        "ms-vscode.PowerShell",
+        "ms-vscode.cpptools",
+        "ms-vscode.csharp",
+        "redhat.java",
+        "Ionide.Ionide-fsharp",
+        "PeterJausovec.vscode-docker",
+        "UCL.haskelly"
+    ]
+}
